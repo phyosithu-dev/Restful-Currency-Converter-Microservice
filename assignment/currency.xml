@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conv>
+ <at>2023-09-06 21:43:03</at>
+ <rate>184.757912</rate>
+ <from>
+  <code>GBP</code>
+  <curr>Pound Sterling</curr>
+  <loc>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</loc>
+  <amnt>2.00</amnt>
+ </from>
+ <to>
+  <code>JPY</code>
+  <curr>Yen</curr>
+  <loc>JAPAN</loc>
+  <amnt>369.515824</amnt>
+ </to>
+</conv>

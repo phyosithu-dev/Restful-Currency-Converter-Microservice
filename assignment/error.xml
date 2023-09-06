@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conv>
+  <error>
+    <code>1300</code>
+    <msg>Currency amount must be a decimal number</msg>
+  </error>
+</conv>

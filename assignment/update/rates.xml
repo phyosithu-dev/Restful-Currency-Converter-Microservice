@@ -1,0 +1,1614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>93.894244</rate>
+    <curr>
+      <code>AFN</code>
+      <name>Afghani</name>
+      <loc>AFGHANISTAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1</rate>
+    <curr>
+      <code>EUR</code>
+      <name>Euro</name>
+      <loc>SPAIN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>104.421357</rate>
+    <curr>
+      <code>ALL</code>
+      <name>Lek</name>
+      <loc>ALBANIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>148.859167</rate>
+    <curr>
+      <code>DZD</code>
+      <name>Algerian Dinar</name>
+      <loc>ALGERIA</loc>
+    </curr>
+  </action>
+  <action type="put">
+    <at>2023-09-06 21:44:03</at>
+    
+    <curr>
+      <code>USD</code>
+      <name>US Dollar</name>
+      <loc>VIRGIN ISLANDS (U.S.)</loc>
+    </curr>
+  <old_rate>1.097449</old_rate><rate>1.250751</rate></action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>908.143385</rate>
+    <curr>
+      <code>AOA</code>
+      <name>Kwanza</name>
+      <loc>ANGOLA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2.965911</rate>
+    <curr>
+      <code>XCD</code>
+      <name>East Caribbean Dollar</name>
+      <loc>SAINT VINCENT AND THE GRENADINES</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code/>
+      <name>No universal currency</name>
+      <loc>SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>286.184998</rate>
+    <curr>
+      <code>ARS</code>
+      <name>Argentine Peso</name>
+      <loc>ARGENTINA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>421.184466</rate>
+    <curr>
+      <code>AMD</code>
+      <name>Armenian Dram</name>
+      <loc>ARMENIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.977603</rate>
+    <curr>
+      <code>AWG</code>
+      <name>Aruban Florin</name>
+      <loc>ARUBA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.640677</rate>
+    <curr>
+      <code>AUD</code>
+      <name>Australian Dollar</name>
+      <loc>TUVALU</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.87002</rate>
+    <curr>
+      <code>AZN</code>
+      <name>Azerbaijan Manat</name>
+      <loc>AZERBAIJAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.089001</rate>
+    <curr>
+      <code>BSD</code>
+      <name>Bahamian Dollar</name>
+      <loc>BAHAMAS (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.410487</rate>
+    <curr>
+      <code>BHD</code>
+      <name>Bahraini Dinar</name>
+      <loc>BAHRAIN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>118.29755</rate>
+    <curr>
+      <code>BDT</code>
+      <name>Taka</name>
+      <loc>BANGLADESH</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2.198697</rate>
+    <curr>
+      <code>BBD</code>
+      <name>Barbados Dollar</name>
+      <loc>BARBADOS</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2.748646</rate>
+    <curr>
+      <code>BYN</code>
+      <name>Belarusian Ruble</name>
+      <loc>BELARUS</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2.194998</rate>
+    <curr>
+      <code>BZD</code>
+      <name>Belize Dollar</name>
+      <loc>BELIZE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>655.777116</rate>
+    <curr>
+      <code>XOF</code>
+      <name>CFA Franc BCEAO</name>
+      <loc>TOGO</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.097449</rate>
+    <curr>
+      <code>BMD</code>
+      <name>Bermudian Dollar</name>
+      <loc>BERMUDA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>90.666299</rate>
+    <curr>
+      <code>INR</code>
+      <name>Indian Rupee</name>
+      <loc>INDIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>90.124278</rate>
+    <curr>
+      <code>BTN</code>
+      <name>Ngultrum</name>
+      <loc>BHUTAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>7.524936</rate>
+    <curr>
+      <code>BOB</code>
+      <name>Boliviano</name>
+      <loc>BOLIVIA (PLURINATIONAL STATE OF)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>BOV</code>
+      <name>Mvdol</name>
+      <loc>Location Not available</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.955264</rate>
+    <curr>
+      <code>BAM</code>
+      <name>Convertible Mark</name>
+      <loc>BOSNIA AND HERZEGOVINA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>14.775947</rate>
+    <curr>
+      <code>BWP</code>
+      <name>Pula</name>
+      <loc>BOTSWANA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>11.654305</rate>
+    <curr>
+      <code>NOK</code>
+      <name>Norwegian Krone</name>
+      <loc>SVALBARD AND JAN MAYEN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>5.343037</rate>
+    <curr>
+      <code>BRL</code>
+      <name>Brazilian Real</name>
+      <loc>BRAZIL</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.471696</rate>
+    <curr>
+      <code>BND</code>
+      <name>Brunei Dollar</name>
+      <loc>BRUNEI DARUSSALAM</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.955919</rate>
+    <curr>
+      <code>BGN</code>
+      <name>Bulgarian Lev</name>
+      <loc>BULGARIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>3079.455285</rate>
+    <curr>
+      <code>BIF</code>
+      <name>Burundi Franc</name>
+      <loc>BURUNDI</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>110.239761</rate>
+    <curr>
+      <code>CVE</code>
+      <name>Cabo Verde Escudo</name>
+      <loc>CABO VERDE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>4496.766507</rate>
+    <curr>
+      <code>KHR</code>
+      <name>Riel</name>
+      <loc>CAMBODIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>655.777116</rate>
+    <curr>
+      <code>XAF</code>
+      <name>CFA Franc BEAC</name>
+      <loc>GABON</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.458894</rate>
+    <curr>
+      <code>CAD</code>
+      <name>Canadian Dollar</name>
+      <loc>CANADA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.907451</rate>
+    <curr>
+      <code>KYD</code>
+      <name>Cayman Islands Dollar</name>
+      <loc>CAYMAN ISLANDS (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>874.040245</rate>
+    <curr>
+      <code>CLP</code>
+      <name>Chilean Peso</name>
+      <loc>CHILE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.031676</rate>
+    <curr>
+      <code>CLF</code>
+      <name>Unidad de Fomento</name>
+      <loc>Location Not available</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>7.924903</rate>
+    <curr>
+      <code>CNY</code>
+      <name>Yuan Renminbi</name>
+      <loc>CHINA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>4605.13678</rate>
+    <curr>
+      <code>COP</code>
+      <name>Colombian Peso</name>
+      <loc>COLOMBIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>COU</code>
+      <name>Unidad de Valor Real</name>
+      <loc>Location Not available</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>492.809878</rate>
+    <curr>
+      <code>KMF</code>
+      <name>Comorian Franc </name>
+      <loc>COMOROS (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2668.996274</rate>
+    <curr>
+      <code>CDF</code>
+      <name>Congolese Franc</name>
+      <loc>CONGO (THE DEMOCRATIC REPUBLIC OF THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.766802</rate>
+    <curr>
+      <code>NZD</code>
+      <name>New Zealand Dollar</name>
+      <loc>TOKELAU</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>591.537737</rate>
+    <curr>
+      <code>CRC</code>
+      <name>Costa Rican Colon</name>
+      <loc>COSTA RICA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>29.082398</rate>
+    <curr>
+      <code>CUP</code>
+      <name>Cuban Peso</name>
+      <loc>CUBA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.097449</rate>
+    <curr>
+      <code>CUC</code>
+      <name>Peso Convertible</name>
+      <loc>Location Not available</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.962562</rate>
+    <curr>
+      <code>ANG</code>
+      <name>Netherlands Antillean Guilder</name>
+      <loc>SINT MAARTEN (DUTCH PART)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>23.852399</rate>
+    <curr>
+      <code>CZK</code>
+      <name>Czech Koruna</name>
+      <loc>CZECHIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>7.453658</rate>
+    <curr>
+      <code>DKK</code>
+      <name>Danish Krone</name>
+      <loc>GREENLAND</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>193.886816</rate>
+    <curr>
+      <code>DJF</code>
+      <name>Djibouti Franc</name>
+      <loc>DJIBOUTI</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>60.713346</rate>
+    <curr>
+      <code>DOP</code>
+      <name>Dominican Peso</name>
+      <loc>DOMINICAN REPUBLIC (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>33.64857</rate>
+    <curr>
+      <code>EGP</code>
+      <name>Egyptian Pound</name>
+      <loc>EGYPT</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>9.528386</rate>
+    <curr>
+      <code>SVC</code>
+      <name>El Salvador Colon</name>
+      <loc>EL SALVADOR</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>16.461734</rate>
+    <curr>
+      <code>ERN</code>
+      <name>Nakfa</name>
+      <loc>ERITREA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>20.806293</rate>
+    <curr>
+      <code>SZL</code>
+      <name>Lilangeni</name>
+      <loc>ESWATINI</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>59.919664</rate>
+    <curr>
+      <code>ETB</code>
+      <name>Ethiopian Birr</name>
+      <loc>ETHIOPIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.854931</rate>
+    <curr>
+      <code>FKP</code>
+      <name>Falkland Islands Pound</name>
+      <loc>FALKLAND ISLANDS (THE) [MALVINAS]</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2.422733</rate>
+    <curr>
+      <code>FJD</code>
+      <name>Fiji Dollar</name>
+      <loc>FIJI</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>119.896698</rate>
+    <curr>
+      <code>XPF</code>
+      <name>CFP Franc</name>
+      <loc>WALLIS AND FUTUNA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>65.463258</rate>
+    <curr>
+      <code>GMD</code>
+      <name>Dalasi</name>
+      <loc>GAMBIA (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2.847924</rate>
+    <curr>
+      <code>GEL</code>
+      <name>Lari</name>
+      <loc>GEORGIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>12.386602</rate>
+    <curr>
+      <code>GHS</code>
+      <name>Ghana Cedi</name>
+      <loc>GHANA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.854931</rate>
+    <curr>
+      <code>GIP</code>
+      <name>Gibraltar Pound</name>
+      <loc>GIBRALTAR</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>8.540657</rate>
+    <curr>
+      <code>GTQ</code>
+      <name>Quetzal</name>
+      <loc>GUATEMALA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.854811</rate>
+    <curr>
+      <code>GBP</code>
+      <name>Pound Sterling</name>
+      <loc>UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>9363.431548</rate>
+    <curr>
+      <code>GNF</code>
+      <name>Guinean Franc</name>
+      <loc>GUINEA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>229.766973</rate>
+    <curr>
+      <code>GYD</code>
+      <name>Guyana Dollar</name>
+      <loc>GUYANA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>150.338761</rate>
+    <curr>
+      <code>HTG</code>
+      <name>Gourde</name>
+      <loc>HAITI</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>26.809646</rate>
+    <curr>
+      <code>HNL</code>
+      <name>Lempira</name>
+      <loc>HONDURAS</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>8.591325</rate>
+    <curr>
+      <code>HKD</code>
+      <name>Hong Kong Dollar</name>
+      <loc>HONG KONG</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>384.879558</rate>
+    <curr>
+      <code>HUF</code>
+      <name>Forint</name>
+      <loc>HUNGARY</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>147.201253</rate>
+    <curr>
+      <code>ISK</code>
+      <name>Iceland Krona</name>
+      <loc>ICELAND</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>16639.191934</rate>
+    <curr>
+      <code>IDR</code>
+      <name>Rupiah</name>
+      <loc>INDONESIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.816576</rate>
+    <curr>
+      <code>XDR</code>
+      <name>SDR (Special Drawing Right)</name>
+      <loc>INTERNATIONAL MONETARY FUND (IMF) </loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>46394.655274</rate>
+    <curr>
+      <code>IRR</code>
+      <name>Iranian Rial</name>
+      <loc>IRAN (ISLAMIC REPUBLIC OF)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1426.508699</rate>
+    <curr>
+      <code>IQD</code>
+      <name>Iraqi Dinar</name>
+      <loc>IRAQ</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>4.058041</rate>
+    <curr>
+      <code>ILS</code>
+      <name>New Israeli Sheqel</name>
+      <loc>ISRAEL</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>168.553765</rate>
+    <curr>
+      <code>JMD</code>
+      <name>Jamaican Dollar</name>
+      <loc>JAMAICA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>155.964003</rate>
+    <curr>
+      <code>JPY</code>
+      <name>Yen</name>
+      <loc>JAPAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.778535</rate>
+    <curr>
+      <code>JOD</code>
+      <name>Jordanian Dinar</name>
+      <loc>JORDAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>485.376858</rate>
+    <curr>
+      <code>KZT</code>
+      <name>Tenge</name>
+      <loc>KAZAKHSTAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>151.578421</rate>
+    <curr>
+      <code>KES</code>
+      <name>Kenyan Shilling</name>
+      <loc>KENYA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>987.70711</rate>
+    <curr>
+      <code>KPW</code>
+      <name>North Korean Won</name>
+      <loc>KOREA (THE DEMOCRATIC PEOPLE’S REPUBLIC OF)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1425.21349</rate>
+    <curr>
+      <code>KRW</code>
+      <name>Won</name>
+      <loc>KOREA (THE REPUBLIC OF)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.336797</rate>
+    <curr>
+      <code>KWD</code>
+      <name>Kuwaiti Dinar</name>
+      <loc>KUWAIT</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>96.290594</rate>
+    <curr>
+      <code>KGS</code>
+      <name>Som</name>
+      <loc>KYRGYZSTAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>20877.273225</rate>
+    <curr>
+      <code>LAK</code>
+      <name>Lao Kip</name>
+      <loc>LAO PEOPLE’S DEMOCRATIC REPUBLIC (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>16345.116426</rate>
+    <curr>
+      <code>LBP</code>
+      <name>Lebanese Pound</name>
+      <loc>LEBANON</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>20.687332</rate>
+    <curr>
+      <code>LSL</code>
+      <name>Loti</name>
+      <loc>LESOTHO</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>20.930075</rate>
+    <curr>
+      <code>ZAR</code>
+      <name>Rand</name>
+      <loc>SOUTH AFRICA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>200.508068</rate>
+    <curr>
+      <code>LRD</code>
+      <name>Liberian Dollar</name>
+      <loc>LIBERIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>5.243562</rate>
+    <curr>
+      <code>LYD</code>
+      <name>Libyan Dinar</name>
+      <loc>LIBYA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.975339</rate>
+    <curr>
+      <code>CHF</code>
+      <name>Swiss Franc</name>
+      <loc>SWITZERLAND</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>8.780192</rate>
+    <curr>
+      <code>MOP</code>
+      <name>Pataca</name>
+      <loc>MACAO</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>61.593105</rate>
+    <curr>
+      <code>MKD</code>
+      <name>Denar</name>
+      <loc>NORTH MACEDONIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>4963.638441</rate>
+    <curr>
+      <code>MGA</code>
+      <name>Malagasy Ariary</name>
+      <loc>MADAGASCAR</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1147.185319</rate>
+    <curr>
+      <code>MWK</code>
+      <name>Malawi Kwacha</name>
+      <loc>MALAWI</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>5.125501</rate>
+    <curr>
+      <code>MYR</code>
+      <name>Malaysian Ringgit</name>
+      <loc>MALAYSIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>16.890155</rate>
+    <curr>
+      <code>MVR</code>
+      <name>Rufiyaa</name>
+      <loc>MALDIVES</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>MRU</code>
+      <name>Ouguiya</name>
+      <loc>MAURITANIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>49.856324</rate>
+    <curr>
+      <code>MUR</code>
+      <name>Mauritius Rupee</name>
+      <loc>MAURITIUS</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XUA</code>
+      <name>ADB Unit of Account</name>
+      <loc>MEMBER COUNTRIES OF THE AFRICAN DEVELOPMENT BANK GROUP</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>18.818071</rate>
+    <curr>
+      <code>MXN</code>
+      <name>Mexican Peso</name>
+      <loc>MEXICO</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>MXV</code>
+      <name>Mexican Unidad de Inversion (UDI)</name>
+      <loc>Location Not available</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>19.944529</rate>
+    <curr>
+      <code>MDL</code>
+      <name>Moldovan Leu</name>
+      <loc>MOLDOVA (THE REPUBLIC OF)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>3777.997213</rate>
+    <curr>
+      <code>MNT</code>
+      <name>Tugrik</name>
+      <loc>MONGOLIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>10.670973</rate>
+    <curr>
+      <code>MAD</code>
+      <name>Moroccan Dirham</name>
+      <loc>WESTERN SAHARA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>69.414061</rate>
+    <curr>
+      <code>MZN</code>
+      <name>Mozambique Metical</name>
+      <loc>MOZAMBIQUE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2286.772723</rate>
+    <curr>
+      <code>MMK</code>
+      <name>Kyat</name>
+      <loc>MYANMAR</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>20.687327</rate>
+    <curr>
+      <code>NAD</code>
+      <name>Namibia Dollar</name>
+      <loc>NAMIBIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>144.198445</rate>
+    <curr>
+      <code>NPR</code>
+      <name>Nepalese Rupee</name>
+      <loc>NEPAL</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>39.829075</rate>
+    <curr>
+      <code>NIO</code>
+      <name>Cordoba Oro</name>
+      <loc>NICARAGUA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>844.491067</rate>
+    <curr>
+      <code>NGN</code>
+      <name>Naira</name>
+      <loc>NIGERIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.422194</rate>
+    <curr>
+      <code>OMR</code>
+      <name>Rial Omani</name>
+      <loc>OMAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>298.917205</rate>
+    <curr>
+      <code>PKR</code>
+      <name>Pakistan Rupee</name>
+      <loc>PAKISTAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.088901</rate>
+    <curr>
+      <code>PAB</code>
+      <name>Balboa</name>
+      <loc>PANAMA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>3.942918</rate>
+    <curr>
+      <code>PGK</code>
+      <name>Kina</name>
+      <loc>PAPUA NEW GUINEA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>7942.821231</rate>
+    <curr>
+      <code>PYG</code>
+      <name>Guarani</name>
+      <loc>PARAGUAY</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>3.960314</rate>
+    <curr>
+      <code>PEN</code>
+      <name>Sol</name>
+      <loc>PERU</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>60.943578</rate>
+    <curr>
+      <code>PHP</code>
+      <name>Philippine Peso</name>
+      <loc>PHILIPPINES (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>4.453386</rate>
+    <curr>
+      <code>PLN</code>
+      <name>Zloty</name>
+      <loc>POLAND</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>3.995854</rate>
+    <curr>
+      <code>QAR</code>
+      <name>Qatari Rial</name>
+      <loc>QATAR</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>4.949719</rate>
+    <curr>
+      <code>RON</code>
+      <name>Romanian Leu</name>
+      <loc>ROMANIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>100.153602</rate>
+    <curr>
+      <code>RUB</code>
+      <name>Russian Ruble</name>
+      <loc>RUSSIAN FEDERATION (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1267.452329</rate>
+    <curr>
+      <code>RWF</code>
+      <name>Rwanda Franc</name>
+      <loc>RWANDA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.335321</rate>
+    <curr>
+      <code>SHP</code>
+      <name>Saint Helena Pound</name>
+      <loc>SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2.99981</rate>
+    <curr>
+      <code>WST</code>
+      <name>Tala</name>
+      <loc>SAMOA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>STN</code>
+      <name>Dobra</name>
+      <loc>SAO TOME AND PRINCIPE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>4.116508</rate>
+    <curr>
+      <code>SAR</code>
+      <name>Saudi Riyal</name>
+      <loc>SAUDI ARABIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>117.321346</rate>
+    <curr>
+      <code>RSD</code>
+      <name>Serbian Dinar</name>
+      <loc>SERBIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>14.401865</rate>
+    <curr>
+      <code>SCR</code>
+      <name>Seychelles Rupee</name>
+      <loc>SEYCHELLES</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>21674.61738</rate>
+    <curr>
+      <code>SLL</code>
+      <name>Leone</name>
+      <loc>SIERRA LEONE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>1.481451</rate>
+    <curr>
+      <code>SGD</code>
+      <name>Singapore Dollar</name>
+      <loc>SINGAPORE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XSU</code>
+      <name>Sucre</name>
+      <loc>SISTEMA UNITARIO DE COMPENSACION REGIONAL DE PAGOS "SUCRE"</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>9.145408</rate>
+    <curr>
+      <code>SBD</code>
+      <name>Solomon Islands Dollar</name>
+      <loc>SOLOMON ISLANDS</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>623.903757</rate>
+    <curr>
+      <code>SOS</code>
+      <name>Somali Shilling</name>
+      <loc>SOMALIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>SSP</code>
+      <name>South Sudanese Pound</name>
+      <loc>SOUTH SUDAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>339.7668</rate>
+    <curr>
+      <code>LKR</code>
+      <name>Sri Lanka Rupee</name>
+      <loc>SRI LANKA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>659.022139</rate>
+    <curr>
+      <code>SDG</code>
+      <name>Sudanese Pound</name>
+      <loc>SUDAN (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>41.2681</rate>
+    <curr>
+      <code>SRD</code>
+      <name>Surinam Dollar</name>
+      <loc>SURINAME</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>11.87566</rate>
+    <curr>
+      <code>SEK</code>
+      <name>Swedish Krona</name>
+      <loc>SWEDEN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>CHE</code>
+      <name>WIR Euro</name>
+      <loc>Location Not available</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>CHW</code>
+      <name>WIR Franc</name>
+      <loc>Location Not available</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2757.378026</rate>
+    <curr>
+      <code>SYP</code>
+      <name>Syrian Pound</name>
+      <loc>SYRIAN ARAB REPUBLIC</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>34.326342</rate>
+    <curr>
+      <code>TWD</code>
+      <name>New Taiwan Dollar</name>
+      <loc>TAIWAN (PROVINCE OF CHINA)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>11.918531</rate>
+    <curr>
+      <code>TJS</code>
+      <name>Somoni</name>
+      <loc>TAJIKISTAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2662.469667</rate>
+    <curr>
+      <code>TZS</code>
+      <name>Tanzanian Shilling</name>
+      <loc>TANZANIA, UNITED REPUBLIC OF</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>38.566593</rate>
+    <curr>
+      <code>THB</code>
+      <name>Baht</name>
+      <loc>THAILAND</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>2.585813</rate>
+    <curr>
+      <code>TOP</code>
+      <name>Pa’anga</name>
+      <loc>TONGA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>7.388973</rate>
+    <curr>
+      <code>TTD</code>
+      <name>Trinidad and Tobago Dollar</name>
+      <loc>TRINIDAD AND TOBAGO</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>3.38728</rate>
+    <curr>
+      <code>TND</code>
+      <name>Tunisian Dinar</name>
+      <loc>TUNISIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>28.599744</rate>
+    <curr>
+      <code>TRY</code>
+      <name>Turkish Lira</name>
+      <loc>TÜRKİYE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>3.852046</rate>
+    <curr>
+      <code>TMT</code>
+      <name>Turkmenistan New Manat</name>
+      <loc>TURKMENISTAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>4023.896219</rate>
+    <curr>
+      <code>UGX</code>
+      <name>Uganda Shilling</name>
+      <loc>UGANDA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>40.218268</rate>
+    <curr>
+      <code>UAH</code>
+      <name>Hryvnia</name>
+      <loc>UKRAINE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>4.030825</rate>
+    <curr>
+      <code>AED</code>
+      <name>UAE Dirham</name>
+      <loc>UNITED ARAB EMIRATES (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>USN</code>
+      <name>US Dollar (Next day)</name>
+      <loc>UNITED STATES OF AMERICA (THE)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>41.278677</rate>
+    <curr>
+      <code>UYU</code>
+      <name>Peso Uruguayo</name>
+      <loc>URUGUAY</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>UYI</code>
+      <name>Uruguay Peso en Unidades Indexadas (UI)</name>
+      <loc>Location Not available</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>UYW</code>
+      <name>Unidad Previsional</name>
+      <loc>Location Not available</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>12599.543861</rate>
+    <curr>
+      <code>UZS</code>
+      <name>Uzbekistan Sum</name>
+      <loc>UZBEKISTAN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>131.114356</rate>
+    <curr>
+      <code>VUV</code>
+      <name>Vatu</name>
+      <loc>VANUATU</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>31.02428</rate>
+    <curr>
+      <code>VES</code>
+      <name>Bolívar Soberano</name>
+      <loc>VENEZUELA (BOLIVARIAN REPUBLIC OF)</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>25954.667962</rate>
+    <curr>
+      <code>VND</code>
+      <name>Dong</name>
+      <loc>VIET NAM</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>274.746747</rate>
+    <curr>
+      <code>YER</code>
+      <name>Yemeni Rial</name>
+      <loc>YEMEN</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>19.573631</rate>
+    <curr>
+      <code>ZMW</code>
+      <name>Zambian Kwacha</name>
+      <loc>ZAMBIA</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>353.378118</rate>
+    <curr>
+      <code>ZWL</code>
+      <name>Zimbabwe Dollar</name>
+      <loc>ZIMBABWE</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XBA</code>
+      <name>Bond Markets Unit European Composite Unit (EURCO)</name>
+      <loc>ZZ01_Bond Markets Unit European_EURCO</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XBB</code>
+      <name>Bond Markets Unit European Monetary Unit (E.M.U.-6)</name>
+      <loc>ZZ02_Bond Markets Unit European_EMU-6</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XBC</code>
+      <name>Bond Markets Unit European Unit of Account 9 (E.U.A.-9)</name>
+      <loc>ZZ03_Bond Markets Unit European_EUA-9</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XBD</code>
+      <name>Bond Markets Unit European Unit of Account 17 (E.U.A.-17)</name>
+      <loc>ZZ04_Bond Markets Unit European_EUA-17</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XTS</code>
+      <name>Codes specifically reserved for testing purposes</name>
+      <loc>ZZ06_Testing_Code</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XXX</code>
+      <name>The codes assigned for transactions where no currency is involved</name>
+      <loc>ZZ07_No_Currency</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.00057</rate>
+    <curr>
+      <code>XAU</code>
+      <name>Gold</name>
+      <loc>ZZ08_Gold</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XPD</code>
+      <name>Palladium</name>
+      <loc>ZZ09_Palladium</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>unavailable</rate>
+    <curr>
+      <code>XPT</code>
+      <name>Platinum</name>
+      <loc>ZZ10_Platinum</loc>
+    </curr>
+  </action>
+  <action type="get">
+    <at>2023-07-08 16:18:03</at>
+    <rate>0.047524</rate>
+    <curr>
+      <code>XAG</code>
+      <name>Silver</name>
+      <loc>ZZ11_Silver</loc>
+    </curr>
+  </action>
+<action type="post"><at>2023-09-06 21:44:13</at><rate/><curr><code>USD</code><name/><loc/></curr></action></root>

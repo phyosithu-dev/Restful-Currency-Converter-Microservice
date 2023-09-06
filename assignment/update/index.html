@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Currency Converter</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Currency Converter</h1>
+    <div class="custom_ui">
+        <form id="submitData">
+            <label>Action</label>
+            <input class="custom-input" type="text" name="action" placeholder="Type action: put,post,del" />
+            <label>Currency ISO</label>
+            <input class="custom-input" type="text" name="currency_iso" placeholder="Type currency code" />
+            <label>Currency</label>
+            <input class="custom-input" type="text" name="currency" placeholder="Type currency name"/>
+            <label>Rate</label>
+            <input class="custom-input" type="number" name="rate" step="0.00003" placeholder="Type currency rate" />
+            <label>Location</label>
+            <input class="custom-input" type="text" name="location" placeholder="Type currency location" />
+            <button id="btn">Submit</button>
+        </form>
+        <textarea id="response"></textarea>
+    </div>
+
+</body>
+<script src="app.js"></script>
+</html>
